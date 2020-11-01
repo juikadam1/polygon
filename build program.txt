@@ -1,0 +1,17 @@
+Input 1 : 
+       (n*4*2)
+array consisting the coordinates of n buildings in 2-D, where n is number of buildings
+Input 2 : coordinated of source of light in 2-D
+Output : (float) Length of surface exposed to sunlight
+
+Example :
+
+  Case 1
+Input -
+ Buildings Coordinates
+ : 
+ [[[4,0],[4,-5],[7,-5],[7,0]]]  
+ S 
+: 
+ [1,1] 
+Output : 8.0
